@@ -1,0 +1,16 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Данила/homework_cpp/homework2/BankCell/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/MINGW/mingw64/bin/mingw32-make.exe cmTC_b13ad/fast && C:/PROGRA~1/MINGW/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_b13ad.dir\build.make CMakeFiles/cmTC_b13ad.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/─рэшыр/homework_cpp/homework2/BankCell/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b13ad.dir/testCCompiler.c.obj
+C:\PROGRA~1\MINGW\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_b13ad.dir\testCCompiler.c.obj   -c C:\Users\╨Ф╨░╨╜╨╕╨╗╨░\homework_cpp\homework2\BankCell\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c
+gcc.exe: error: C:\Users\╨Ф╨░╨╜╨╕╨╗╨░\homework_cpp\homework2\BankCell\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_b13ad.dir\build.make:85: CMakeFiles/cmTC_b13ad.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/─рэшыр/homework_cpp/homework2/BankCell/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:140: cmTC_b13ad/fast] Error 2
+
+
+

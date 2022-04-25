@@ -1,2 +1,6 @@
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+<<<<<<< HEAD
+hello
 
+=======
+ccccccccccaccccccccccccccccc
+>>>>>>> branch_new
